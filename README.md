@@ -6,7 +6,7 @@ Repositório sobre a atividade 7 do curso mais pra ti
 
 
 ## Instalação
-Para instalar o projeto, cone o repositório com o comando a seguir:
+Para instalar o projeto, clone o repositório com o comando a seguir:
 ```console
 git clone https://github.com/Eerriicckk/maispraTi-atividade-7.git
 ```
